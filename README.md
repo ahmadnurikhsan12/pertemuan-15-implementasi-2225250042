@@ -89,5 +89,4 @@ Ahmad Nurikhsan bertanggung jawab atas pengembangan program, pengujian, dan peny
 ## 10. Referensi dan Bantuan
 
 - Modul Algoritma dan Pemrograman Pertemuan 15: *Implementasi, Pengujian, dan Dokumentasi Proyek Python di VS Code, Git, dan GitHub*.
-- Dokumentasi resmi Python: https://docs.python.org/3/
 - Bantuan AI digunakan untuk membantu penyusunan dan peninjauan kode serta dokumentasi. Implementasi dan hasil pengujian tetap diperiksa oleh mahasiswa.
